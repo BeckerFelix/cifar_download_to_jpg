@@ -1,2 +1,11 @@
 # cifar_download_to_jpg
-Downloads cifar10 dataset and extracts each image as .jpg into a folder corresponding to the according object class. train/val ratio can be specified
+
+This script gets the **Cifar10** dataset and exports each image as separate .jpg file. The files are stored according to given train/val ratio, where the folder name corresponds to the object class.  Really simple script which might hopefully help someone ;)
+
+Data is gathered from cs.toronto.edu
+
+Use with python 2.7
+
+![sample output](test)
+
+
