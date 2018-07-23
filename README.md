@@ -6,6 +6,6 @@ Data is gathered from cs.toronto.edu
 
 Use with python 2.7
 
-![sample output](test)
+![sample output](https://raw.githubusercontent.com/MilkWithCoffee/cifar_download_to_jpg/master/sample_output.png)
 
 
